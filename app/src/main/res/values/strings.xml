@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio11</string>
+    <string name="bt1">modo avión</string>
+    <string name="bt2">Imagen guardada en galería</string>
+    <string name="bt3">Nivel 69 completado</string>
+    <string name="bt4">actualizacion de juego</string>
+    <string name="bt5">Nivel 70 desbloqueado</string>
+    <string name="bt6">pausar musica</string>
+
+</resources>
